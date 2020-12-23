@@ -11,12 +11,15 @@ PROBLEMAS
 No
 
  
-
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+ 
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![img](clip_image002.png)
+
+ 
+
+![img](clip_image004.png)
 
  
 
@@ -26,15 +29,15 @@ Levantamos el servicio:
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+![img](clip_image006.png)
 
 Lo encuentra
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
+![img](clip_image008.png)
 
 Este no lo encuentra y lo intercepta el Middleware
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+![img](clip_image010.png)
 
 **Lesson 2: Customizing Controllers and Actions**
 
@@ -46,7 +49,7 @@ Este no lo encuentra y lo intercepta el Middleware
 
 Levantamos el servicio:
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)
+![img](clip_image014.png)
 
  
 
@@ -116,4 +119,3 @@ Comprobamos que la imagen está creada
 
  
 
-![img](clip_image033.png)
